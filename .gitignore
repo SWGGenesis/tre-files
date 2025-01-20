@@ -5,3 +5,5 @@ odb3
 aftermath-1/
 *.iff
 recompile/
+MMOCoreORB/
+docker/
