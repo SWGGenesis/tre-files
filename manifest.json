@@ -1,9 +1,9 @@
 {
     "required": [
-        {"name":"aftermath_1.tre","size":8906501,"md5":"c4a14b8df12054bb965b4b95774f636a","url":"https://github.com/SWGGenesis/tre-files/raw/master/aftermath_1.tre"},
+        {"name":"aftermath_1.tre","size":8906501,"md5":"c4a14b8df12054bb965b4b95774f636a","url":"https://github.com/SWGGenesis/tre-files/raw/testTre/aftermath_1.tre"},
         {"name":"patch_14_00.tre","size":30849018,"md5":"566628f94f8cee0ef973eadc4b0dd653","url":"https://www.dropbox.com/s/ziluzyh37qx1n3r/patch_14_00.tre?dl=1"},
-        {"name":"aftermath_house.tre","size":20864669,"md5":"3834c1f02487b286a04f0c50addc493a","url":"https://github.com/SWGGenesis/tre-files/raw/master/aftermath_house.tre"},
-        {"name":"aftermath_NGE.tre","size":73454008,"md5":"ccafb187b3d10c065fb6ae88a0907348","url":"https://github.com/SWGGenesis/tre-files/raw/master/aftermath_NGE.tre"},
+        {"name":"aftermath_house.tre","size":20864669,"md5":"3834c1f02487b286a04f0c50addc493a","url":"https://github.com/SWGGenesis/tre-files/raw/testTre/aftermath_house.tre"},
+        {"name":"aftermath_NGE.tre","size":73454008,"md5":"ccafb187b3d10c065fb6ae88a0907348","url":"https://github.com/SWGGenesis/tre-files/raw/testTre/aftermath_NGE.tre"},
         {"name":"swgemu_live.cfg","size":2229,"md5":"d26d4201f756b407bce1b3efa139fa74","url":"https://www.dropbox.com/s/hzd1axd21qlv4od/swgemu_live.cfg?dl=1"},
         {"name":"string/en/live_motd.stf","size":2113,"md5":"4f63fe1651aff0a00cecd3c3c0b3e8bc","url":"https://www.dropbox.com/s/32pcqu13tefve1d/live_motd.stf?dl=1"},
         {"name":"string/en/test_motd.stf","size":2113,"md5":"4f63fe1651aff0a00cecd3c3c0b3e8bc","url":"https://www.dropbox.com/s/8ylguztycgu51bt/test_motd.stf?dl=1"},
